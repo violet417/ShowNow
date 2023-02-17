@@ -1,0 +1,13 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">쇼우나우</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="tutorial_msg">본 애플리케이션은 사용자가 원하는 상품을 고를 수 있도록 보완된 서비스로,
+        사용자의 카메라로부터 상품을 인식하여 음성으로 정보를 안내하도록 설계되어 있습니다.
+        안내는 다음과 같은 순서로 진행 됩니다.
+        1. 시작하기 버튼을 눌러 시작 합니다.
+        2. 하나의 상품이 인식 되기까지 약 1~2초 정도 소요 됩니다.
+        3. 인식된 상품의 상품명이 안내 됩니다.
+        4. 핸드폰을 좌, 우, 위, 아래 등 원하는 방향으로 천천히 움직이며 상품을 인식해 주세요.
+        5. 상품명을 듣고 구매의사가 있다면, 해당 상품을 선택 하시면 됩니다.
+        다시 들으 시려면 듣기 버튼을, 서비스를 시작 하시려면 시작하기 버튼을 누르세요.</string>
+</resources>
