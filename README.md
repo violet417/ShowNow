@@ -6,6 +6,8 @@ A Beverage Detection Application for Visually Impaired
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=SVG&logoColor=white" width="90">
 </h1>
 
+##### App Download : https://play.google.com/store/apps/details?id=org.tensorflow.lite.examples.shownow1&hl=ko
+
 ![ppt1표지](https://user-images.githubusercontent.com/115054956/220268178-d7f2dbec-c6bd-4029-88db-6fbc8210d557.png)
 
 # 목차 Index
