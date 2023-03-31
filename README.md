@@ -1,6 +1,6 @@
 <h1 align="center"> 
 시각장애인을 위한 편의점 음료 인식 어플<br/>
-A Beverage Detection Application for Visually Impaired
+A Beverage Detection Application for Visually Impaired<br> 
 <br> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width="100">
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=SVG&logoColor=white" width="90">
