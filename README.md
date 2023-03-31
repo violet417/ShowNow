@@ -18,6 +18,7 @@ A Beverage Detection Application for Visually Impaired
 ## 🧃 시각장애인이 편의점에서 음료를 고르는 방법 The Way Visually Impaired Select Products in Retails
 * 대부분의 음료에 점자가 없거나 '음료'라고만 되어 있어 시각장애인이 상품 선택 시 어려움을 겪습니다.
 
+<출처: 원샷한솔OneshotHansol  -  https://www.youtube.com/@OneshotHansol>
 ![2023-02-22 13 30 34](https://user-images.githubusercontent.com/115054956/220522326-1bebd7f5-a008-4ddb-a7a1-69050e631fb1.png)
 
 ## 쇼우나우 어플 소개 Introduction Of ShowNow Application
@@ -35,6 +36,7 @@ A Beverage Detection Application for Visually Impaired
 ## 📱 시각장애인이 어플을 사용하는 방법 The Way Visually Impaired Use Phone and Applications
 * 시각장애인도 핸드폰과 어플을 사용할 수 있습니다.
 
+<출처: 우령의 유디오 - https://www.youtube.com/@Youdio-wooryeong>
 ![2023-02-22 13 32 01](https://user-images.githubusercontent.com/115054956/220522515-370c12f0-7c77-487e-a0da-591d83953a70.png)
 
 # ‘쇼우나우’를 통한 기대효과
